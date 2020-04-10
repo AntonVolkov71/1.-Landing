@@ -1,5 +1,5 @@
 # Landing
-[Одностраничный сайт](https://antonvolkov71.github.io/1/-Lending/) 
+[Одностраничный сайт](https://antonvolkov71.github.io/1.-Lending/) 
 
 ### Версия проекта v0.0.1
 
