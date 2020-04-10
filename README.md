@@ -1,4 +1,4 @@
-# lending
+# Landing
 [Одностраничный сайт](https://antonvolkov71.github.io/lending/) 
 
 ### Версия проекта v0.0.1
